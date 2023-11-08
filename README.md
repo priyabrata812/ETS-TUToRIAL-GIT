@@ -1,2 +1,2 @@
-#Read me
+#README
  this is a readme file
